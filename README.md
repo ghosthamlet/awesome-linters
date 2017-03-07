@@ -32,6 +32,7 @@ This project is not closed to actual static analyzers. With this repository we i
   - [Polymer](#polymer)
   - [Puppet](#puppet)
   - [Python](#python)
+  - [Php](#php)
   - [reStructuredText](#restructuredtext)
   - [Ruby](#ruby)
   - [Rust](#rust)
@@ -149,6 +150,12 @@ This project is not closed to actual static analyzers. With this repository we i
 - [flake8](https://github.com/PyCQA/flake8) - Runs PyFlakes, pycodestyle and other tools from only one CLI. Written in Python.
 - [pycodestyle (formerly called pep8)](https://github.com/PyCQA/pycodestyle) - Tool to check your Python code against some of the style conventions in PEP 8.
 - [pylint](https://github.com/PyCQA/pylint) - Source code analyzer which looks for programming errors, helps enforcing a coding standard and sniffs for some code smells.
+
+### Php
+
+- [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP, JavaScript and CSS files and detects violations of a defined set of coding standards.
+- [phplint](http://www.icosaedro.it/phplint) - PHPLint is a validator and documentator for PHP 5 and PHP 7 programs.
+- [phplint](https://github.com/overtrue/phplint) - PHP syntax linter.
 
 ### reStructuredText
 
